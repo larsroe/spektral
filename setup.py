@@ -15,6 +15,7 @@ setup(
                       'numpy',
                       'scipy',
                       'requests',
+                      'tqdm',
                       'scikit-learn'],
     url='https://github.com/danielegrattarola/spektral',
     license='MIT',
